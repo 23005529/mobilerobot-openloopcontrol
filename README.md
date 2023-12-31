@@ -1,11 +1,11 @@
 # MobileRobot-Openloopcontrol
-## Aim:
 NAME : ALIYA SHEEMA 
 
 REFERENCE NUMBER : 23005529
 
 DEPARTMENT : AIDS
 
+## Aim:
 To develop a python control code to move the mobilerobot along the predefined path.
   
 ## Equipments Required:
