@@ -9,7 +9,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-Step1:
+Step 1: Use from robo master import robort
 
 <br/>
 
